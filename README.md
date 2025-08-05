@@ -80,9 +80,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesurajan&layout=compact&theme=dark" alt="mesurajan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandelmilan&layout=compact&theme=dark" alt="kandelmilan" /></p>
 
-<p><img src="https://streak-stats.demolab.com?user=mesurajan&theme=dark" alt="GitHub Streak" /></p>
+<p><img src="https://streak-stats.demolab.com?user=kandelmilan&theme=dark" alt="GitHub Streak" /></p>
 
 
 
