@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hi+%F0%9F%91%8B+I+am+Kandel+Milan+;+A++Frontend+and++backend+developer++" alt="Typing SVG" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesurajan&label=Profile%20views&color=0e75b6&style=flat" alt="mesurajan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kandelmilan&label=Profile%20views&color=0e75b6&style=flat" alt="kandelmilan" /> </p>
 
   
 
