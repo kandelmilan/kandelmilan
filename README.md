@@ -69,11 +69,12 @@
 </p>
 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandelmilan&layout=compact&theme=dark" alt="kandelmilan Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=kandelmilan&theme=dark" alt="GitHub Streak" />
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandelmilan&layout=compact&theme=dark" alt="kandelmilan" /></p>
-
-<p><img src="https://streak-stats.demolab.com?user=kandelmilan&theme=dark" alt="GitHub Streak" /></p>
 
 
 
