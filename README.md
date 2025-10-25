@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-• 🔭 I’m currently working on *E-commerce Website*  
+• 🔭 I’m currently working on *E-commerce Website* HEKTO
 • 📫 How to reach me: **Kandelr950p@gmail.com**  
 • 🌱 Always exploring new technologies  
 
