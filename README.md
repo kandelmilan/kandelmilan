@@ -1,88 +1,137 @@
-<!-- Header / Welcome -->
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Milan Kandel</h1>
-<h3 align="center">A passionate Frontend & Backend Developer from Nepal</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kandelmilan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;MERN+Stack+Developer;Frontend+%26+Backend+Engineer;From+Nepal+🇳🇵" />
 </p>
 
+<h3 align="center">🚀 Passionate Fullstack Developer | MERN Stack | UI Lover</h3>
 
-
----
-
-### 🔭 Currently Working On
-- **SikshyaSewa** – Fullstack application for education services.  
-
-### 🌱 Learning
-- **MERN Stack** (MongoDB, Express, React, Node.js)  
-- **Next.js & TailwindCSS** for modern frontend projects  
-
-### 👨‍💻 My Projects
-- Check all my projects on [GitHub](https://github.com/kandelmilan)  
-- Featured projects:
-  <p align="center">
-    <a href="https://github.com/kandelmilan/hekto-ecommerce" target="_blank">
-      <img src="https://img.shields.io/badge/HEKTO-Ecommerce-blue?style=for-the-badge&logo=react" alt="HEKTO" />
-    </a>
-    <a href="https://github.com/kandelmilan/sikshyasewa" target="_blank">
-      <img src="https://img.shields.io/badge/SikshyaSewa-Fullstack-green?style=for-the-badge&logo=node.js" alt="SikshyaSewa" />
-    </a>
-  </p>
-
-### 📫 Contact Me
-- Email: [kandelr950p@gmail.com](mailto:kandelr950p@gmail.com)  
-- Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/kandelmilan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/kandelmilan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kandelmilan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://github.com/kandelmilan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kandelmilan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/kandelmilan?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/kandelmilan?style=for-the-badge" />
 </p>
 
 ---
 
-### 💻 Languages & Tools
+# 👨‍💻 About Me
+
+- 🌍 From **Nepal 🇳🇵**
+- 💻 Fullstack **MERN Developer**
+- 🚀 Currently building **SikshyaSewa**
+- 📚 Learning **Next.js, System Design**
+- ⚡ Love building **beautiful UI & scalable backend**
+
+---
+
+# 🔭 Current Projects
+
+### 🛒 HEKTO Ecommerce
+Fullstack ecommerce platform using MERN stack.
+
+🔗 https://github.com/kandelmilan/hekto-ecommerce
+
+---
+
+### 🎓 SikshyaSewa
+Education service platform connecting students with tutors.
+
+🔗 https://github.com/kandelmilan/sikshyasewa
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50"/></a>
-  <a href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+
+<a href="https://linkedin.com/in/kandelmilan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/kandelmilan">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kandelmilan">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:kandelr950p@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandelmilan&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=kandelmilan&theme=radical" alt="GitHub Streak" />
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
 ---
 
-### 🏆 Top Languages
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandelmilan&layout=compact&theme=radical" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kandelmilan&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kandelmilan&theme=tokyonight" />
+
 </p>
 
 ---
 
+# 🧠 Most Used Languages
+
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandelmilan&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kandelmilan&theme=algolia&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kandelmilan&theme=react-dark"/>
+</p>
+
+---
+
+# ✨ Quote
+
+<p align="center">
+<i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
