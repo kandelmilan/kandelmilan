@@ -30,14 +30,29 @@
 ### 🛒 HEKTO Ecommerce
 Fullstack ecommerce platform using MERN stack.
 
-🔗 https://github.com/kandelmilan/hekto-ecommerce
+🔗 [GitHub Repo](https://github.com/kandelmilan/hekto-ecommerce)
 
 ---
 
 ### 🎓 SikshyaSewa
 Education service platform connecting students with tutors.
 
-🔗 https://github.com/kandelmilan/sikshyasewa
+🔗 [GitHub Repo](https://github.com/kandelmilan/sikshyasewa)
+
+---
+
+### 🌐 Portfolio
+Check out my live portfolio here:
+
+🔗 [Milan Kandel Portfolio](https://port-folio-seven-sooty.vercel.app/)
+
+Or with badge style:
+
+<p align="center">
+<a href="https://port-folio-seven-sooty.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Site-blue?style=for-the-badge&logo=web" />
+</a>
+</p>
 
 ---
 
