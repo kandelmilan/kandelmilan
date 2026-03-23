@@ -137,13 +137,6 @@ Or with badge style:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kandelmilan&theme=react-dark"/>
-</p>
-
----
 
 # ✨ Quote
 
