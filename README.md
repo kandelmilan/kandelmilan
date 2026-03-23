@@ -30,7 +30,7 @@
 ### 🛒 Masala Zen Ecommerce
 Fullstack ecommerce platform using MERN stack.
 
-🔗 [GitHub Repo]([https://github.com/kandelmilan/](https://github.com/kandelmilan/Restaurant-Frontend))
+🔗 [GitHub Repo](https://github.com/kandelmilan/Restaurant-Frontend)
 
 ---
 
