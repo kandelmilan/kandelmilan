@@ -27,10 +27,10 @@
 
 # 🔭 Current Projects
 
-### 🛒 HEKTO Ecommerce
+### 🛒 Masala Zen Ecommerce
 Fullstack ecommerce platform using MERN stack.
 
-🔗 [GitHub Repo](https://github.com/kandelmilan/hekto-ecommerce)
+🔗 [GitHub Repo]([https://github.com/kandelmilan/](https://github.com/kandelmilan/Restaurant-Frontend))
 
 ---
 
