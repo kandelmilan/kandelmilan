@@ -25,23 +25,23 @@
 
 ---
 
-# 🔭 Current Projects
+#  Current Projects
 
-### 🛒 Masala Zen Ecommerce
+###  Masala Zen Ecommerce
 Fullstack ecommerce platform using MERN stack.
 
 🔗 [GitHub Repo](https://github.com/kandelmilan/Restaurant-Frontend)
 
 ---
 
-### 🎓 SikshyaSewa
+### SikshyaSewa
 Education service platform connecting students with tutors.
 
 🔗 [GitHub Repo](https://github.com/kandelmilan/sikshyasewa)
 
 ---
 
-### 🌐 Portfolio
+###  Portfolio
 Check out my live portfolio here:
 
 🔗 [Milan Kandel Portfolio](https://port-folio-seven-sooty.vercel.app/)
