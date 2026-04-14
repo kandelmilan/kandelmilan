@@ -56,7 +56,7 @@ Or with badge style:
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -82,34 +82,34 @@ Or with badge style:
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🧰 Tools
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -121,7 +121,7 @@ Or with badge style:
 
 ---
 
-# 🧠 Most Used Languages
+# Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandelmilan&layout=compact&theme=tokyonight"/>
@@ -129,7 +129,7 @@ Or with badge style:
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kandelmilan&theme=algolia&margin-w=10&row=1"/>
