@@ -16,8 +16,8 @@
 - 🌍 From **Nepal 🇳🇵**
 - 📱 Android Developer specializing in **Flutter**
 - 🧑‍💻 **1+ year of experience** building cross-platform mobile apps
-- 🚀 Currently building **SikshyaSewa Mobile App**
-- 📚 Learning **Dart Advanced Concepts, Clean Architecture, Firebase, State Management (Bloc/Riverpod)**
+- 🚀 Currently building **Kamao Mobile App**
+- 📚 Learning **Dart Advanced Concepts, Clean Architecture, Firebase, State Management (Getx)**
 - ⚡ Love building **smooth, pixel-perfect mobile UI & scalable app architecture**
 - 🎯 Exploring **Native Android (Kotlin)** alongside Flutter development
 
